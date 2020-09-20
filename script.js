@@ -1,17 +1,17 @@
 
 var cardsArray = [
-    {    'name': 'sazuke',    'img': 'url(images/sazuke.jpg)',  },
-    {    'name': 'naruto',    'img': 'url(images/naruto.jpg',  },
-    {    'name': 'hinata',    'img': 'url(images/hinata.jpg',  },
-    {    'name': 'gaara',     'img': 'url(images/gaara.jpg',  },
-    {    'name': 'itachi',    'img': 'url(images/itachi.jpg',  },
-    {    'name': 'jiraya',    'img': 'url(images/jiraya.jpg',  },
-    {    'name': 'kakashi',   'img': 'url(images/kakashi.jpg',  },
-    {    'name': 'li',        'img': 'url(images/li.jpg',  },
-    {    'name': 'nine-tails','img': 'url(images/nine-tails.jpg',  },
-    {    'name': 'paine',     'img': 'url(images/paine.jpg',  },
-    {    'name': 'shadow',    'img': 'url(images/shadow.jpg',  },
-    {    'name': 'tsuande',   'img': 'url(images/tsunade.jpg',  },
+    {    'name': 'sazuke',    'img': 'url(sazuke.jpg)',  },
+    {    'name': 'naruto',    'img': 'url(naruto.jpg',  },
+    {    'name': 'hinata',    'img': 'url(hinata.jpg',  },
+    {    'name': 'gaara',     'img': 'url(gaara.jpg',  },
+    {    'name': 'itachi',    'img': 'url(itachi.jpg',  },
+    {    'name': 'jiraya',    'img': 'url(jiraya.jpg',  },
+    {    'name': 'kakashi',   'img': 'url(kakashi.jpg',  },
+    {    'name': 'li',        'img': 'url(li.jpg',  },
+    {    'name': 'nine-tails','img': 'url(nine-tails.jpg',  },
+    {    'name': 'paine',     'img': 'url(paine.jpg',  },
+    {    'name': 'shadow',    'img': 'url(shadow.jpg',  },
+    {    'name': 'tsuande',   'img': 'url(tsunade.jpg',  },
 ];
 
   // Duplicate cardsArray to create a match for each card
